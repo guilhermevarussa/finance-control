@@ -13,4 +13,4 @@ body{
 
 `;
 
-export default Global
+export default GlobalStyle
