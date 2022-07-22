@@ -1,8 +1,16 @@
-import React from 'react'
+import React from 'react';
+import * as Components from "./styles"
 
 const Header = () => {
     return (
-        <div>Header</div>
+
+        <Components.Container>
+            <Components.Header>
+                <Components.Titly>Controle Financeiro</Components.Titly>
+            </Components.Header>
+
+        </Components.Container>
+
     )
 }
 
