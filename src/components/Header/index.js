@@ -6,9 +6,8 @@ const Header = () => {
 
         <Components.Container>
             <Components.Header>
-                <Components.Titly>Controle Financeiro</Components.Titly>
+                <Components.Titly>Financeiro Botuverá Mobile</Components.Titly>
             </Components.Header>
-
         </Components.Container>
 
     )
