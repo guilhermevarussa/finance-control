@@ -2,6 +2,7 @@ import React from 'react'
 import GlobalStyle from './styles/global';
 import Header from './components/Header';
 import Resume from './components/Resume/resume';
+import Form from './components/Form/form';
 
 const App = () => {
 
@@ -10,6 +11,7 @@ const App = () => {
         <>
             <Header />
             <Resume />
+            <Form />
             <GlobalStyle />
         </>
     )
